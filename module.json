@@ -1,0 +1,13 @@
+{
+    "name": "yatt",
+    "author": "Hail",
+    "version": "v112 - 1.0.0",
+    "description": "Yet Another Talent Tracker.",
+    "disableAutoUpdate": false,
+    "options": {
+        "cliName": "YATT",
+        "guiName": "Yet Another Talent Tracker"
+    },
+    "servers": ["https://raw.githubusercontent.com/hailstorming/Yet-Another-Talent-Tracker/main/"],
+    "supportUrl": "https://github.com/hailstorming/Yet-Another-Talent-Tracker/blob/main/readme.md"
+}
